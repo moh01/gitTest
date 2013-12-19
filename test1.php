@@ -5,5 +5,7 @@ echo "azul git 1";
 echo "azul git 2";
 //on ajoute une troisième ligne pour un deuxieme commit
 echo "azul git 3";
+//on ajoute une quatrieme ligne pour un troisieme commit
+echo "azul git 4";
 
 ?>
